@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { PiShoppingCartSimpleBold } from "react-icons/pi";
-import { UseCard } from "../contex/CartContext";
+
 import styles from "./layout.module.css";
 import { useSelector } from "react-redux";
 

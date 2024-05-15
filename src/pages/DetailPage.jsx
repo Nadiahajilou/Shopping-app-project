@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
-import { useProductsDetail } from "../contex/ProductContex";
+
 import Loader from "../components/Loader";
 import { SiOpenproject } from "react-icons/si";
 import { IoMdPricetag } from "react-icons/io";
